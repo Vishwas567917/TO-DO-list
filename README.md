@@ -21,12 +21,12 @@ This project is a simple console-based To-Do List application implemented in C. 
    ```bash
    cd to-do-list
 3. Compile the code using a C compiler:
-```bash
+  ```bash
   gcc -o todo todo.c
 
 4.Run the executable:
-```bash
-./todo
+   ```bash
+  ./todo
 
 Usage
 1. Run the program.
